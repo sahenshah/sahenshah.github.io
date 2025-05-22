@@ -1,6 +1,6 @@
 # Portfolio Website
 
-[Live Site](https://sahenshah.github.io/portfolio-website/)
+[Live Site](https://sahenshah.github.io/)
 
 ## Overview
 
